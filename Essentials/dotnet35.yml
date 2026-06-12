@@ -13,11 +13,11 @@ Steps:
 
   - action: override_dll
     dll: mscoree
-    type: native,builtin
+    type: native
 
   - action: override_dll
     dll: mscorwks
-    type: native,builtin
+    type: native
 
   - action: install_exe
     file_name: dotnetfx35.exe
