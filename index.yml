@@ -157,7 +157,6 @@ msxml4:
 msxml6:
   Description: Microsoft Core XML Services (MSXML) 6.0
   Category: Essentials
-  Arch: win64
 mediafoundation:
   Description: Microsoft Media Foundation
   Category: Essentials
